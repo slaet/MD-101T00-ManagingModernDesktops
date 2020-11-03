@@ -77,7 +77,7 @@ A. Datum Corporation is currently managing provisioning users in both AD DS and 
 
 #### Task 3: Configuring directory synchronization with Azure AD Connect
 
-1.  On **LON-SVR1**, sign in as **Adatum\\Administrator**, with
+1.  On **LON-DC1**, sign in as **Adatum\\Administrator**, with
     the password **Pa55w.rd**.
 
 2.  Open **Internet Explorer**, and then go to
@@ -144,7 +144,7 @@ A. Datum Corporation is currently managing provisioning users in both AD DS and 
     Domain Services (AD DS) and Azure AD begins. You should wait approximately
     3-4 minutes for this process to complete._
 
-19. In the Internet Explorer window on LON-SVR1, browse to
+19. In the Internet Explorer window on LON-DC1, browse to
     **http://www.microsoft.com/en-us/download/details.aspx?id=41950**.
 
 20. On the **Microsoft Online Services Sign-In Assistant for IT Professionals
