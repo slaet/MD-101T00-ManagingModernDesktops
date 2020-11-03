@@ -205,7 +205,7 @@ Users are requesting that their Windows settings and application data be the sam
 15. Select **Create**. Close the **Group** page.
 
 16. In the **Azure Active Directory admin center** page, select from the breadcrumb
-    navigation **ADATUM**, scroll down and then select **Properties**. Note down the value for **Directory ID**.
+    navigation **ADATUM**, scroll down and then select **Properties**. Note down the value for **Tenant ID**.
     
     _Note: The value is needed for the configuration of the Knwon Folder Move._
 
@@ -236,7 +236,7 @@ Users are requesting that their Windows settings and application data be the sam
     **Search to filter items.** text box type **OneDrive**.
 
 10. Under **Setting Name** select **Silenty move Windows known folders to OneDrive**.
-    In the **Silenty move Windows known folders to OneDrive** dialog box select **Enabled**, then enter the value you noted down earlier for **Tenannt ID**. Select **OK**.
+    In the **Silenty move Windows known folders to OneDrive** dialog box select **Enabled**, then enter the value you noted down earlier for **Tenant ID**. Select **OK**.
 
 11. Select **Silently sign in users to the OneDrive sync app with their Windows
     credentials**, and then select **Edit**. In the **Silently sign in users to the OneDrive sync app with their Windows credentials** dialog box select **Enabled**, then select **OK**.
